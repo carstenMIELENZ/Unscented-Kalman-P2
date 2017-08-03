@@ -6,14 +6,14 @@
 
 
 #### Files used to fullfil Rubic items
-* Unscended-Kalman-P2/src/tools.cpp = tools file containing RMSE.
-* Unscended-Kalman-P2/src/ukf.cpp = class file containing filter Predict, Update, init and NIS methods. 
-* Unscended-Kalman-P2/src/ukf.h = header class file containing additional varibles for NIS.
+* Unscented-Kalman-P2/src/tools.cpp = tools file containing RMSE.
+* Unscented-Kalman-P2/src/ukf.cpp = class file containing filter Predict, Update, init and NIS methods. 
+* Unscented-Kalman-P2/src/ukf.h = header class file containing additional varibles for NIS.
 
 ### Directories
 
-* DIR: Unscended-Kalman-P2/src = orginal source directory including updated files from above.  
-* DIR: Unscended-Kalman-P2/build = orginal build directory including generated executables and makefiles MAC OS.
+* DIR: Unscented-Kalman-P2/src = orginal source directory including updated files from above.  
+* DIR: Unscented-Kalman-P2/build = orginal build directory including generated executables and makefiles MAC OS.
 
 ### RMSE Results for Dataset 1
 
